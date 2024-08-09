@@ -21,6 +21,8 @@ flower = "*"
 
 [dev-packages]
 autopep8 = "*"
+locust = "*"
+django-silk = "*"
 
 [requires]
 python_version = "3.9"
